@@ -1,0 +1,4 @@
+10 CLS
+20 FOR H=0 TO 9
+30 PRINT "*";
+40 NEXT H
